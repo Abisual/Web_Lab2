@@ -1,0 +1,16 @@
+{
+    "name": "Data counters",
+    "Apartment": "string",
+    "resources":
+    [ 
+        {
+            "name": "Water", "Data counter1": "number"
+        },
+        {
+            "name": "Electricity", "Day tarif": "number", "Night tarif": "number"
+        },
+        {
+            "name": "Gas", "Data counter2": "number"
+        }
+    ]
+}
